@@ -41,4 +41,4 @@ My work spans **Rust systems programming**, **distributed systems**, and **quant
 
 ### Contact
 
-Timișoara, Romania · Open to Zurich, Zug, Shenzhen, Shanghai · `contact [at] diyahussein [dot] com`
+Timișoara, Romania · Open to Zurich, Zug, Shenzhen, Shanghai · diya.minamoto@gmail.com
