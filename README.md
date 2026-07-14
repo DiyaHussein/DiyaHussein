@@ -17,11 +17,13 @@ My work bridges **machine learning** and **low-level systems engineering**. I ca
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [EdgeSight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + Grafana monitoring. 15ms CPU inference. | Python, PyTorch, ONNX, FastAPI, Docker |
-| [KafkaLens](https://github.com/DiyaHussein/kafkalens) | Kafka stream processing with sliding-window anomaly detection. Full pipeline: producer → broker → ML consumer → Grafana. | Python, Kafka, scikit-learn, PostgreSQL |
-| [rs-mlserve](https://github.com/DiyaHussein/rs-mlserve) | Rust ONNX inference server over gRPC with native Python client (PyO3). 3.2x faster than Python, survives SIGKILL. | Rust, PyO3, gRPC, ONNX Runtime |
+| [lob-replay](https://github.com/DiyaHussein/lob-replay) | Sub-millisecond L2 order book reconstructor — Binance, OKX, Bybit tick streams → Apache Arrow IPC. 1M+ events/sec. | Rust, Apache Arrow, criterion |
+| [transformer-jax](https://github.com/DiyaHussein/transformer-jax) | GPT-style decoder from scratch in JAX — multi-head attention, flash attention, WikiText-2 training. | Python, JAX, dm-haiku, optax |
+| [edgesight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + Grafana monitoring. 35ms CPU inference. | Python, PyTorch, ONNX, FastAPI, Docker |
 | [rust-quant-engine](https://github.com/DiyaHussein/rust-quant-engine) | Tick-level backtesting engine with limit order book simulation and Sharpe/Sortino metrics. | Rust, PyO3 |
-| [tcp-proxy-rs](https://github.com/DiyaHussein/tcp-proxy-rs) | Asynchronous L4 proxy leveraging io_uring for kernel-bypass I/O. Sub-50us latency. | Rust, tokio, io_uring |
+| [edgesight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + Grafana monitoring. 35ms CPU inference. | Python, PyTorch, ONNX, FastAPI, Docker |
+| [rust-quant-engine](https://github.com/DiyaHussein/rust-quant-engine) | Tick-level backtesting engine with limit order book simulation and Sharpe/Sortino metrics. | Rust, PyO3 |
+| [tcp-proxy-rs](https://github.com/DiyaHussein/tcp-proxy-rs) | Async L4 TCP proxy with io_uring kernel bypass. Sub-50us added latency. | Rust, tokio, io_uring |
 
 ### Stack
 
