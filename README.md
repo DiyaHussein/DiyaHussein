@@ -21,8 +21,6 @@ My work bridges **machine learning** and **low-level systems engineering**. I ca
 | [transformer-jax](https://github.com/DiyaHussein/transformer-jax) | GPT-style decoder from scratch in JAX — multi-head attention, flash attention, WikiText-2 training. | Python, JAX, dm-haiku, optax |
 | [edgesight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + Grafana monitoring. 35ms CPU inference. | Python, PyTorch, ONNX, FastAPI, Docker |
 | [rust-quant-engine](https://github.com/DiyaHussein/rust-quant-engine) | Tick-level backtesting engine with limit order book simulation and Sharpe/Sortino metrics. | Rust, PyO3 |
-| [edgesight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + Grafana monitoring. 35ms CPU inference. | Python, PyTorch, ONNX, FastAPI, Docker |
-| [rust-quant-engine](https://github.com/DiyaHussein/rust-quant-engine) | Tick-level backtesting engine with limit order book simulation and Sharpe/Sortino metrics. | Rust, PyO3 |
 | [tcp-proxy-rs](https://github.com/DiyaHussein/tcp-proxy-rs) | Async L4 TCP proxy with io_uring kernel bypass. Sub-50us added latency. | Rust, tokio, io_uring |
 
 ### Stack
@@ -78,8 +76,8 @@ My work bridges **machine learning** and **low-level systems engineering**. I ca
 
 ### Open Source
 
-- Apache Kafka contributor
-- TiDB contributor (CNCF graduated)
+- All projects MIT licensed. Building infrastructure in public.
+- Exploring contribution opportunities in Kafka, JAX, and TiDB ecosystems.
 
 ### Contact
 
