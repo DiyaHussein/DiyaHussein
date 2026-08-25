@@ -18,6 +18,7 @@ I work across two layers of the stack. Up top: AI systems — agents, ML pipelin
 | [rust-quant-engine](https://github.com/DiyaHussein/rust-quant-engine) | Event-driven backtesting engine with limit-order-book simulation and Sharpe/Sortino metrics. | Rust, PyO3 |
 | [tcp-proxy-rs](https://github.com/DiyaHussein/tcp-proxy-rs) | Low-latency async L4 TCP proxy with io_uring kernel bypass. | Rust, tokio, io_uring |
 | [pki-ca](https://github.com/DiyaHussein/pki-ca) | Minimal X.509 PKI — self-signed root CA, leaf issuance, Ed25519 digital signatures. | Rust, ring, x509-parser |
+| [sigil](https://github.com/DiyaHussein/sigil) | Trust registry for MCP servers and agents — version-diffing that catches rug pulls, every finding backed by file, line and source. | Python, FastAPI, static analysis |
 | [transformer-jax](https://github.com/DiyaHussein/transformer-jax) | GPT-style decoder from scratch — multi-head attention, flash attention, WikiText-2 training. | Python, JAX |
 | [edgesight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + FastAPI + Grafana monitoring. | Python, PyTorch, ONNX, Docker |
 
