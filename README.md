@@ -19,6 +19,7 @@ I work across two layers of the stack. Up top: AI systems — agents, ML pipelin
 | [tcp-proxy-rs](https://github.com/DiyaHussein/tcp-proxy-rs) | Low-latency async L4 TCP proxy with io_uring kernel bypass. | Rust, tokio, io_uring |
 | [pki-ca](https://github.com/DiyaHussein/pki-ca) | Minimal X.509 PKI — self-signed root CA, leaf issuance, Ed25519 digital signatures. | Rust, ring, x509-parser |
 | [transformer-jax](https://github.com/DiyaHussein/transformer-jax) | GPT-style decoder from scratch — multi-head attention, flash attention, WikiText-2 training. | Python, JAX |
+| [edgesight](https://github.com/DiyaHussein/edgesight) | Real-time edge AI pipeline — YOLOv8 + ONNX quantization + FastAPI + Grafana monitoring. | Python, PyTorch, ONNX, Docker |
 
 ## What I Work On
 
