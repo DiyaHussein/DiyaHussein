@@ -26,7 +26,7 @@ I work across two layers of the stack. Up top: AI systems — agents, ML pipelin
 
 - Applied LLM systems — bilingual (AR/EN/RO) intent and slot-filling, strict-JSON single-call pipelines, offline/local inference
 - AI agents — tool-use registries, terminal agents, multi-tenant deployment
-- Computer vision — real-time object detection, ONNX quantization, edge deployment
+- Computer vision pipelines — real-time object detection, ONNX quantization, edge deployment, model benchmarking
 - ML fundamentals — transformers from scratch in JAX, attention, training
 
 **Systems**
